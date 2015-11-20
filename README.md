@@ -1,2 +1,3 @@
 # gitskills
-# on master add a row
+# create a new branch "fearure1" on master add a row
+
